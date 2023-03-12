@@ -1,0 +1,1 @@
+print("hindi na kita mahal pa kita")
